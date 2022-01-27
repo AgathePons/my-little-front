@@ -1,0 +1,24 @@
+{
+  "name": "my-little-front",
+  "version": "1.0.0",
+  "description": "test fetch api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev index.js --no-notify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgathePons/my-little-front.git"
+  },
+  "author": "AgathePons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgathePons/my-little-front/issues"
+  },
+  "homepage": "https://github.com/AgathePons/my-little-front#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2"
+  }
+}

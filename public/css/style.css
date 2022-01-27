@@ -1,0 +1,25 @@
+body {
+  background-color: #d6c5cc;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: #222;
+}
+
+.card {
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: .5rem;
+}
